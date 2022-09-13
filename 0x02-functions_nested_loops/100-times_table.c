@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * print times_table -  times table
+ * print_times_table -  times table
  * @n : times table to use
  * Description: print times table
  * Return:void
  */
 
-void print times_table(int n) 
+void print_times_table(int n) 
 {
 
 int a = 0, rep, b;
